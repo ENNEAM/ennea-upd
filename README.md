@@ -34,7 +34,7 @@ When you believe your EIP is mature and ready to progress past the draft phase, 
 
 # Preferred Citation Format
 
-The canonical URL for a EIP that has achieved draft status at any point is at https://github.com/enneam/eaanea. For example, the canonical URL for EIP-1 is https://github.com/enneam/EIPS/eip-1.
+The canonical URL for a EIP that has achieved draft status at any point is at https://github.com/enneam/ennea. For example, the canonical URL for EIP-1 is https://github.com/enneam/EIPS/eip-1.
 
 # Validation
 
