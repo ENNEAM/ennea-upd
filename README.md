@@ -1,8 +1,8 @@
-# Ethereum Improvement Proposals (EIPs)
+# Ennea Improvement Proposals (EIPs)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/EIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Ethereum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
+Ennea Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
 A browsable version of all current and draft EIPs can be found on [the official EIP site](https://eips.ethereum.org/).
 
@@ -11,7 +11,7 @@ A browsable version of all current and draft EIPs can be found on [the official 
  1. Review [EIP-1](EIPS/eip-1.md).
  2. Fork the repository by clicking "Fork" in the top right.
  3. Add your EIP to your fork of the repository. There is a [template EIP here](eip-template.md).
- 4. Submit a Pull Request to Ethereum's [EIPs repository](https://github.com/ethereum/EIPs).
+ 4. Submit a Pull Request to Ennea's [EIPs repository](https://github.com/enneam/EIPs).
 
 Your first PR should be a first draft of the final EIP. It must meet the formatting criteria enforced by the build (largely, correct metadata in the header). An editor will manually review the first PR for a new EIP and assign it a number before merging it. Make sure you include a `discussions-to` header with the URL to a discussion forum or open GitHub issue where people can discuss the EIP as a whole.
 
@@ -34,7 +34,7 @@ When you believe your EIP is mature and ready to progress past the draft phase, 
 
 # Preferred Citation Format
 
-The canonical URL for a EIP that has achieved draft status at any point is at https://eips.ethereum.org/. For example, the canonical URL for EIP-1 is https://eips.ethereum.org/EIPS/eip-1.
+The canonical URL for a EIP that has achieved draft status at any point is at https://github.com/ennean/eips. For example, the canonical URL for EIP-1 is https://github.com/enneam/EIPS/ennea-eip-1.
 
 # Validation
 
